@@ -1,6 +1,6 @@
 # QuickMaths
     
-    QuickMaths is a simple command-line tool that allows you to perform basic math operations quickly and easily. It supports addition, subtraction, multiplication, and division.
+QuickMaths is a simple command-line tool that allows you to perform basic math operations quickly and easily. It supports addition, subtraction, multiplication, and division.
 
 # Installation
     To install QuickMaths, you must have Python 3.x installed on your system. You can download Python from the official website: https://www.python.org/downloads/
