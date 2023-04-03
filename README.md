@@ -1,4 +1,5 @@
 # QuickMaths
+    
     QuickMaths is a simple command-line tool that allows you to perform basic math operations quickly and easily. It supports addition, subtraction, multiplication, and division.
 
 # Installation
